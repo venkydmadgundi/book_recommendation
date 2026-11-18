@@ -12,7 +12,7 @@ A Streamlit application that recommends books based on text similarity. The app 
 ## Project Structure
 
 ```text
-GenAI-Task6-Vyankatesh/
+book_recommendation/
 |-- app.py
 |-- books_dataset.csv
 |-- requirement.txt
@@ -36,7 +36,7 @@ Python packages:
 1. Open a terminal and navigate to the project directory:
 
 ```powershell
-cd "E:\Venky\codebase\GenAI-Building & Deploying a Recommendation System-Vyankatesh\GenAI-Task6-Vyankatesh"
+cd "book_recommendation"
 ```
 
 2. Create and activate a virtual environment:
